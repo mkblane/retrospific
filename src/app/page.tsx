@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { Canvas3D } from '@/components/Canvas3D';
+import { PerformanceTest } from '@/components/PerformanceTest';
 
 export default function Home() {
   const [shapes, setShapes] = useState<Array<{
@@ -67,6 +68,8 @@ export default function Home() {
           className="color-picker"
         />
       </div>
+
+      <PerformanceTest />
     </main>
   );
 }

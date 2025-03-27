@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Logo will go here -->
-  <img src="public/assets/logo.png" alt="RetroSpific Logo" width="200" height="200" />
+  <img src="public/assets/logo.png" alt="RetroSpific Logo"/>
   
   A modern web-based 3D design tool that lets you create and manipulate 3D shapes directly in your browser.
 </div>
@@ -42,7 +42,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/retrospific.git
+   git clone https://github.com/mkblane/retrospific.git
    ```
 
 2. Install dependencies:
